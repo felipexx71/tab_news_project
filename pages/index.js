@@ -1,6 +1,5 @@
 function Home() {
-    return <h1>commands used: nvm = node, npm = next e react
-    </h1>;
+    return <><h1>Para Minha Querida Namorada</h1><p>Querida Larinha,</p><p>Eu não consigo expressar em palavras o quanto você significa para mim. Desde o momento em que te conheci, minha vida se encheu de alegria e amor. Você é a pessoa mais incrível que já conheci e sou grato todos os dias por ter você ao meu lado.</p><p>Você ilumina cada momento da minha vida com seu sorriso e seu amor incondicional. Seu apoio e carinho me fortalecem e me fazem acreditar que posso conquistar qualquer coisa. Com você, sinto que posso ser meu verdadeiro eu, sem medo ou julgamentos.</p><p>Você é minha melhor amiga, minha confidente e minha companheira de aventuras. Nosso amor é como uma jornada emocionante, cheia de risos, lágrimas, desafios e crescimento. Estou ansioso para continuar construindo uma vida maravilhosa juntos.</p><p>Quero que saiba que meu coração pertence inteiramente a você. Prometo te amar e te respeitar todos os dias da minha vida. Estou aqui para apoiar seus sonhos, compartilhar suas alegrias e enfrentar qualquer obstáculo que apareça em nosso caminho.</p><p>Você é a pessoa que eu escolho para estar ao meu lado nos momentos bons e ruins, na felicidade e na tristeza. Meu amor por você só cresce a cada dia, e mal posso esperar para ver o que o futuro reserva para nós.</p><p>Com todo o meu amor,</p><p>Seu amor, Felipe.</p></>
 }
 
 export default Home;
